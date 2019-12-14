@@ -1,0 +1,5 @@
+﻿  EasyMain.cpp
+D:\slfile\work\64k_intro_scr\SceneIntro\EasyMain.cpp(28,22): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\slfile\work\64k_intro_scr\SceneIntro\EasyMain.cpp(28,14): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\slfile\work\64k_intro_scr\SceneIntro\EasyMain.cpp(29,17): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  SceneIntro.vcxproj -> D:\slfile\work\64k_intro_scr\SceneIntro\Debug\SceneIntro.exe
